@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256939466095",
+    "project_id": "electrics-store",
+    "storage_bucket": "electrics-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256939466095:android:ae9aefca6f29a0eb70dc9a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256939466095-rg344b5mens7tr018oc0op6hmhiaj1qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWJq2vNo0DiaueND7b-GlADlJgUPYosxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256939466095-rg344b5mens7tr018oc0op6hmhiaj1qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
